@@ -24,7 +24,7 @@ RoboJam explores a modular approach in which interaction capabilities can be dev
 
 RoboJam follows a modular, layered architecture designed to separate high-level interaction logic from robot-specific hardware implementations.
 
-![RoboJam high-level architecture](assets/architecture.png)
+![RoboJam high-level architecture](assets/High_level_architecture.pdf)
 
 *High-level conceptual architecture of RoboJam. Implementation details and interfaces are evolving as development progresses.*
 
