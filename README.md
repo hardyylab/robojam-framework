@@ -35,8 +35,6 @@ The detailed architecture is currently being refined as part of ongoing research
 
 ## Project Status
 
-**Active Research & Development | 2026–Present**
-
 RoboJam is currently in the implementation and experimental development phase. Initial work focuses on establishing the framework's core architecture and validating foundational functionality.
 
 The implementation repository and detailed technical documentation remain private during this phase. This repository serves as a public overview of the research motivation, architecture and current progress. Further materials will be made available as the research progresses. However, further technical details may be discussed privately where appropriate and permitted.
