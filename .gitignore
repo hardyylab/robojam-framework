@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Private research notebooks
+*.ipynb
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Research datasets
+data/
+datasets/
+*.csv
+*.parquet
+*.pcap
+
+# Model artifacts
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Credentials
+.env
+.env.*
+*.json.key
+*service-account*.json
+
+# Local backup files
+*.bak
+*.backup
